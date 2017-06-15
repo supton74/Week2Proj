@@ -1,0 +1,2 @@
+C:\Users\Shaun\AppData\Local\Temporary Projects\Week2Project\bin\Debug\Week2Project.exe.config
+C:\Users\Shaun\Documents\Visual Studio 2015\Projects\Week2Project\Week2Project\bin\Debug\Week2Project.exe.config
